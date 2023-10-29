@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #ededed;
+    padding: 1%;
+    padding-left: 10%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.form-contract {
+    width: 50vw;
+    min-width: 300px;
+}
